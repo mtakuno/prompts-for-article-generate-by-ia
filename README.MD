@@ -33,19 +33,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Entendendo C: Estrutura, Sintaxe e Exemplos Práticos                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva um artigo sobre "Comandos em C: Estrutura, Sintaxe e Exemplos Práticos" {REGRAS}
-- No máximo 5 linhas de texto explicativo por bloco de explicação.
-- Escreva de maneira informal, como se fosse para uma pessoa que nunca teve contato com o mundo da programação
-- comandos são tanto funções, operadores lógicos, operadores condicionais.
-- Os blocos que serão criados estão abaixo:
--- O que é a linguagem C (e principais usabilidades)
--- O que são os comando
-   -- O que são comando C (qual a estrutura geral e a sintaxe básica)
--- Quais são as comandos básicas que todo iniciante em C deveria conhecer
-    -- explique e mostre pequenas implementações dessas comandos
--- Faça um call to action para minhas redes sociais
--0 Coloque 3 hashtags que façam sentido 
-                                                                                                |
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva um artigo sobre "Comandos em C: Estrutura, Sintaxe e Exemplos Práticos" {REGRAS} No máximo 5 linhas de texto explicativo por bloco de explicação. Escreva de maneira informal, como se fosse para uma pessoa que nunca teve contato com o mundo da programação. Comandos são tanto funções, operadores lógicos, operadores condicionais.Os blocos que serão criados estão abaixo (O que é a linguagem C (e principais usabilidades); O que são os comando; O que são comando C (qual a estrutura geral e a sintaxe básica); Quais são as comandos básicas que todo iniciante em C deveria conhecer; explique e mostre pequenas implementações dessas comandos; Faça um call to action para minhas redes sociais)                                                                                                |
 
 
 Lexica.art：
